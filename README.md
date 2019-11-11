@@ -1,7 +1,4 @@
-==================================================================
-Getting and Cleaning Datat Project
-Sean Lynch
-==================================================================
+#Getting and Cleaning Data Project
 
 Submission for Getting and Cleaning Data course project. 
 
